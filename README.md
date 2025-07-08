@@ -3,10 +3,13 @@ The Temple of Doom is a simple, text-based action-adventure game where the playe
 
 Gameplay Overview
 
+'''
 •	Objective: Traverse the five levels of the temple, defeat monsters, collect items, and locate the golden idol to win the game.
 •	Player Actions: Players can move, attack, pick up items, wield weapons, read scrolls, and descend deeper into the temple using a set of keyboard commands.
 •	Monsters: Various monsters such as Bogeymen, Dragons, Goblins, and Snakewomen inhabit the temple. Each monster type has unique behaviors and attack strategies.
 •	Items: Players can find and use weapons and magical scrolls that enhance their abilities, such as improving armor, strength, and health.
+'''
+
 Features
 
 •	Randomly Generated Levels: Each level of the temple is procedurally generated, ensuring a unique experience with every game.
